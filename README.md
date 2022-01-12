@@ -6,3 +6,4 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 - ✅ Lógica de programação com Python
 - 📚 Estudando HTML e CSS
 - 📝 Pretendo estudar JS e C nos próximos meses
+- 📩 e-mail para contato: f.mateusaraujo20@gmail.com
