@@ -20,7 +20,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusaraujo1&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-<h2>Tools</h2>
+####
   
 <div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -28,8 +28,8 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-<h2>Social Networks</h2>
+
+####
 
 <div>
   <a href = "https://twitter.com/Fmateus100H" target="_blank" rel="external"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -38,7 +38,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <a href = "mailto:f.mateusaraujo20@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<h2>Projects</h2>
+<h2>Repositories</h2>
 
 <h3>Programming Logic</h3>
 
