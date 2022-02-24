@@ -1,4 +1,4 @@
-### Hello 👋 I'm Mateus
+<h2>Hello 👋 I'm Mateus</h2>
 Sou um jovem estudante de ciências da computação que pretende se 
 especializar na área de programação, qualquer tipo de ajuda é muito
 bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
