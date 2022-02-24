@@ -37,3 +37,35 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:f.mateusaraujo20@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
+
+<h2>Projects</h2>
+
+<h3>Programming Logic</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/jogo_da_forca" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=jogo_da_forca&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/agenda_telefonica" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=agenda_telefonica&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/trabalhos_python" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=trabalhos_python&hide_border=true&theme=blue-green"/></a></p>
+
+<h3>Front-end</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/website-playlists-cursos" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=website-playlists-cursos&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/mateusaraujo1.github.io" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=mateusaraujo1.github.io&hide_border=true&theme=blue-green"/></a></p>
+
+<h3>Notes</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/dev-html-css" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=dev-html-css&hide_border=true&theme=blue-green"/></a></p>
