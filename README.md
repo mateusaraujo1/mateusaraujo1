@@ -58,8 +58,8 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 <h3>Front-end</h3>
   
 <p align="center">
-  <a href="https://github.com/mateusaraujo1/login-and-register-page" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=login-and-register-page&hide_border=true&theme=blue-green"/></a></p>
+  <a href="https://github.com/mateusaraujo1/login-page" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=login-page&hide_border=true&theme=blue-green"/></a></p>
 
 <p align="center">
   <a href="https://github.com/mateusaraujo1/login-page-old" target="_blank">
