@@ -65,10 +65,6 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <a href="https://github.com/mateusaraujo1/form-dev" target="_blank">
   <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=form-dev&hide_border=true&theme=blue-green"/></a></p>
 
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/mateusaraujo1.github.io" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=mateusaraujo1.github.io&hide_border=true&theme=blue-green"/></a></p>
-
 <h3>Notes</h3>
 
 <p align="center">
