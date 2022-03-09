@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I'm Mateus</h1>
+<h1>Hello 👋 I'm Mateus</h1>
 
 <div>
 <p>
@@ -39,7 +39,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   </div>
 
-<h2 align="center">Repositories</h2>
+<h2>Repositories</h2>
 
 <h3>Programming Logic</h3>
 
