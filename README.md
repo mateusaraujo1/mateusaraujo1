@@ -9,7 +9,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 
 <ul>
 <li>✅ Lógica de programação com Python
-<li>📚 Estudando C
+<li>📚 Estudando desenvolvimento web e C
 <li>📝 Pretendo estudar JS nos próximos meses
 </ul>
 </div>
