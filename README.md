@@ -57,6 +57,10 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=trabalhos_python&hide_border=true&theme=blue-green"/></a></p>
 
 <h3>Front-end</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/pokedex" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=pokedex&hide_border=true&theme=blue-green"/></a></p>
   
 <p align="center">
   <a href="https://github.com/mateusaraujo1/login-page" target="_blank">
