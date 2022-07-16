@@ -42,20 +42,6 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 
 <h2>Repositories</h2>
 
-<h3>Programming Logic</h3>
-
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/jogo_da_forca" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=jogo_da_forca&hide_border=true&theme=blue-green"/></a></p>
-
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/agenda_telefonica" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=agenda_telefonica&hide_border=true&theme=blue-green"/></a></p>
-
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/trabalhos_python" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=trabalhos_python&hide_border=true&theme=blue-green"/></a></p>
-
 <h3>Front-end</h3>
 
 <p align="center">
@@ -70,8 +56,26 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <a href="https://github.com/mateusaraujo1/form-dev" target="_blank">
   <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=form-dev&hide_border=true&theme=blue-green"/></a></p>
 
+<h3>Programming Logic</h3>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/jogo_da_forca" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=jogo_da_forca&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/agenda_telefonica" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=agenda_telefonica&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/trabalhos_python" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=trabalhos_python&hide_border=true&theme=blue-green"/></a></p>
+
 <h3>Notes</h3>
 
 <p align="center">
-  <a href="https://github.com/mateusaraujo1/dev-html-css" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=dev-html-css&hide_border=true&theme=blue-green"/></a></p>
+  <a href="https://github.com/mateusaraujo1/dev-web" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=web&hide_border=true&theme=blue-green"/></a></p>
+  
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/language_C" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=language_C&hide_border=true&theme=blue-green"/></a></p>
