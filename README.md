@@ -8,9 +8,8 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 </p>
 
 <ul>
-<li>✅ Lógica de programação com Python
-<li>📚 Estudando desenvolvimento web e C
-<li>📝 Pretendo estudar JS nos próximos meses
+<li>📚 Estudando desenvolvimento web
+<li>📋 Pretendo me aprofundar em front e back-end
 </ul>
 </div>
 
@@ -37,6 +36,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
