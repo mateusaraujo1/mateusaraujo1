@@ -9,7 +9,7 @@ bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
 
 <ul>
 <li>📚 Estudando desenvolvimento web
-<li>📋 Pretendo me aprofundar em front e back-end
+<li>📋 Pretendo me aprofundar em back-end
 </ul>
 </div>
 
