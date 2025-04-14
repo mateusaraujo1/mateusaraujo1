@@ -39,15 +39,17 @@ Sou um estudante de ciências da computação, desenvolvo aplicações web utili
 <h2>Repositories</h2>
 
 <p align="center">
+  <a href="https://github.com/mateusaraujo1/app-pfm" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=app-pfm&hide_border=true&theme=blue-green"/></a></p>
+  
+<p align="center">
+  <a href="https://github.com/mateusaraujo1/hdc-events" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=hdc-events&hide_border=true&theme=blue-green"/></a></p>
+
+<p align="center">
   <a href="https://github.com/mateusaraujo1/tasks-list" target="_blank">
   <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=tasks-list&hide_border=true&theme=blue-green"/></a></p>
 
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/pokedex" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=pokedex&hide_border=true&theme=blue-green"/></a></p>
   
-<p align="center">
-  <a href="https://github.com/mateusaraujo1/login-page" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=login-page&hide_border=true&theme=blue-green"/></a></p>
 
 
