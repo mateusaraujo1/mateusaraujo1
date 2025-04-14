@@ -2,15 +2,8 @@
 
 <div>
 <p>
-Sou um jovem estudante de ciências da computação que pretende se 
-especializar na área de programação, qualquer tipo de ajuda é muito
-bem-vinda, e se eu puder ajudar em algo, melhor ainda ;)
+Sou um estudante de ciências da computação, desenvolvo aplicações web utilizando PHP com foco no Laravel, atualmente estou me especializando em back-end e estudando também front-end para me tornar full-stack
 </p>
-
-<ul>
-<li>📚 Estudando desenvolvimento web
-<li>📋 Pretendo me aprofundar em back-end
-</ul>
 </div>
 
 <div align="center">
