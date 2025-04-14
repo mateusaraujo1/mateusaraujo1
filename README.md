@@ -47,8 +47,8 @@ Sou um estudante de ciências da computação, desenvolvo aplicações web utili
   <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=hdc-events&hide_border=true&theme=blue-green"/></a></p>
 
 <p align="center">
-  <a href="https://github.com/mateusaraujo1/tasks-list" target="_blank">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=tasks-list&hide_border=true&theme=blue-green"/></a></p>
+  <a href="https://github.com/mateusaraujo1/tasks_manager" target="_blank">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusaraujo1&repo=task_manager&hide_border=true&theme=blue-green"/></a></p>
 
   
 
