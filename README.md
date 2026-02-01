@@ -2,7 +2,7 @@
 
 <div>
 <p>
-Sou um estudante de ciências da computação prestes, desenvolvo aplicações web utilizando tanto Laravel (PHP) quanto Node.js com Express para o backend, e React.js/Next.js para o frontend
+Desenvolvedor Web Full-Stack focado em criar sistemas robustos e escaláveis. Possuo experiência em TypeScript (Node.js, React.js/Next.js) e no ecossistema PHP (Laravel).
 </p>
 </div>
 
